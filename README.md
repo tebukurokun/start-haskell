@@ -1,0 +1,2 @@
+# start-haskell
+haskell start
